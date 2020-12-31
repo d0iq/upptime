@@ -5,7 +5,7 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Liys
-    url: https://www.liys.site
+    url: https://www.liys.site/
 #  - name: Secret Site
 #    url: $SECRET_SITE
 
@@ -16,8 +16,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/d0iq/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/$OWNER/$REPO)
+  introTitle: "Liys's Site Monitor"
+  introMessage: ""
   navbar:
     - title: Status
       href: /

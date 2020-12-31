@@ -5,7 +5,9 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Liys
-    url: https://www.liys.site/
+    url: https://www.liys.site
+  - name: Google
+    url: https://www.google.com
 #  - name: Secret Site
 #    url: $SECRET_SITE
 

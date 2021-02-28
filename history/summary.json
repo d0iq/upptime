@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-27": 56,
+      "2021-02-28": 59,
+      "2021-02-27": 1440,
       "2021-02-26": 1440,
       "2021-02-25": 1440,
       "2021-02-24": 1440,
@@ -88,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 62,
-    "timeWeek": 81,
-    "timeMonth": 83,
-    "timeYear": 84,
+    "time": 85,
+    "timeDay": 138,
+    "timeWeek": 90,
+    "timeMonth": 86,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   }
 ]
